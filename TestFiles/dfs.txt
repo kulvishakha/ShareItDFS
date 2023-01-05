@@ -1,0 +1,27 @@
+What Is a Distributed File System?
+A distributed file system (DFS) is a file system that spans across multiple file servers or multiple locations, such as file servers that are situated in different physical places. Files are accessible just as if they were stored locally, from any device and from anywhere on the network. A DFS makes it convenient to share information and files among users on a network in a controlled and authorized way.
+
+Why Is a Distributed File System Important?
+The main reason enterprises choose a DFS is to provide access to the same data from multiple locations. For example, you might have a team distributed all over the world, but they have to be able to access the same files to collaborate. Or in today’s increasingly hybrid cloud world, whenever you need access to the same data from the data center, to the edge, to the cloud, you would want to use a DFS.
+
+A DFS is critical in situations where you need:
+
+Transparent local access — Data to be accessed as if it’s local to the user for high performance.
+Location independence — No need for users to know where file data physically resides.
+Scale-out capabilities — The ability to scale out massively by adding more machines. DFS systems can scale to exceedingly large clusters with thousands of servers.
+Fault tolerance — A need for your system to continue operating properly even if some of its servers or disks fail. A fault-tolerant DFS is able to handle such failures by spreading data across multiple machines.
+What Are the Benefits of a DFS?
+A distributed file system (DFS) is a file system that is distributed to and stored in multiple locations, such as file servers that are located in different locales. Files are accessible just as if they were locally stored, from any device at any location. A DFS makes it convenient to share information and files among authorized users on a network in a controlled way.
+
+What Are the Different Types of Distributed File Systems?
+These are the most common DFS implementations:
+
+Windows Distributed File System
+Network File System (NFS)
+Server Message Block (SMB)
+Google File System (GFS)
+Lustre
+Hadoop Distributed File System (HDFS)
+GlusterFS
+Ceph
+MapR File System
