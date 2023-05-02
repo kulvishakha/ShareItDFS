@@ -2,7 +2,6 @@ ShareIt Distributed File System
 
 
 
-
 We have implemented a DFS for reliable and secure file storage.
 
 
